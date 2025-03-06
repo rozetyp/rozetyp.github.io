@@ -4,7 +4,7 @@ import time
 import datetime
 
 # Replace with your actual Etherscan API key - Consider using Streamlit secrets for better security
-API_KEY = 'YOUR_ETHERSCAN_API_KEY' # Replace with your API Key here
+API_KEY = '5WR6W8CWYYM7655C4QMGFH5K8ASPXY1V1X' # Replace with your API Key here
 
 # URLs for different endpoints
 GAS_ORACLE_URL = f"https://api.etherscan.io/api?module=gastracker&action=gasoracle&apikey={API_KEY}"
